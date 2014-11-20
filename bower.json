@@ -27,6 +27,6 @@
     "js/tests"
   ],
   "dependencies": {
-    "jquery": ">= 1.x.x"
+    "jquery": "1.x.x"
   }
 }
