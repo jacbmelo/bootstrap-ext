@@ -1,7 +1,6 @@
 {
   "name": "bootstrap-ext",
   "description": "Bootstrap Extensions.",
-  "version": "1.0.0",
   "keywords": [
     "css",
     "js"
@@ -10,6 +9,17 @@
     "front-end",
     "framework",
     "web"
+  ],
+  "version": "1.0.0",
+  "author": {
+    "name": "João Melo",
+    "url": "https://jacbmelo.github.io"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.githubusercontent.com/jacbmelo/bootstrap-ext/master/LICENSE"
+    }
   ],
   "homepage": "https://github.com/jacbmelo/bootstrap-ext",
   "main": [
