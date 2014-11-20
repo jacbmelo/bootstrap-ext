@@ -2,6 +2,7 @@
   "name": "bootstrap-ext",
   "description": "Bootstrap Extensions.",
   "keywords": [
+    "bootstrap",
     "css",
     "js"
     "mobile-first",
@@ -36,6 +37,6 @@
     "js/tests"
   ],
   "dependencies": {
-    "jquery": ">= 1.9.1"
+    "jquery": ">= 1.x.x"
   }
 }
