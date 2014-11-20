@@ -4,7 +4,7 @@
   "keywords": [
     "bootstrap",
     "css",
-    "js"
+    "js",
     "mobile-first",
     "responsive",
     "front-end",
@@ -12,6 +12,11 @@
     "web"
   ],
   "version": "1.0.0",
+  "author": "João Melo"
+  "license": {
+    "type": "MIT",
+    "url": "https://raw.githubusercontent.com/jacbmelo/bootstrap-ext/master/LICENSE"
+  },
   "homepage": "https://github.com/jacbmelo/bootstrap-ext",
   "main": [
     "css/tables.css",
