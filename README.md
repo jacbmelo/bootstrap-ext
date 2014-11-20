@@ -8,7 +8,7 @@ Set of extensions for [Bootstrap](https://github.com/twbs/bootstrap).
 There are three options available:
 
 - Install with [Bower](http://bower.io): `bower install jacbmelo/bootstrap-ext --save`.
-- [Download the latest release](https://github.com/jacbmelo/bootstrap-ext/archive/master.zip).
+- [Download the latest release](https://github.com/jacbmelo/bootstrap-ext/archive/v1.0.0.zip).
 - Clone the repo: `git clone https://github.com/jacbmelo/bootstrap-ext.git`.
 
 ## Features
