@@ -37,10 +37,7 @@ Bootstrap Extensions is maintained under [the Semantic Versioning guidelines](ht
 
 ## Creator
 
-**João Melo**
-
-- <https://github.com/jacbmelo>
-- <https://twitter.com/jacbmelo>
+**João Melo** - <https://github.com/jacbmelo>
 
 ## Copyright and license
 
