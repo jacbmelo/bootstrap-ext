@@ -37,4 +37,4 @@ Bootstrap Extensions is maintained under [the Semantic Versioning guidelines](ht
 
 ## Copyright and license
 
-Code and documentation copyright 2014 João Melo <https://github.com/jacbmelo>. Code released under [the MIT license](LICENSE).
+Code and documentation copyright 2014 [João Melo](https://github.com/jacbmelo). Code released under [the MIT license](LICENSE).
