@@ -35,10 +35,6 @@ Have a bug or a feature request? Please first [search for existing and closed is
 
 Bootstrap Extensions is maintained under [the Semantic Versioning guidelines](http://semver.org/). 
 
-## Creator
-
-**João Melo** - <https://github.com/jacbmelo>
-
 ## Copyright and license
 
-Code and documentation copyright 2014 João Melo. Code released under [the MIT license](LICENSE).
+Code and documentation copyright 2014 João Melo <https://github.com/jacbmelo>. Code released under [the MIT license](LICENSE).
