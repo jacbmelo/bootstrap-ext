@@ -15,13 +15,11 @@ There are three options available:
 
 #### Fix columns on a responsive table
 
-To start add:
+To start add to your page:
 
     <!-- bootstrap-ext -->
     <link type="text/css" rel="stylesheet" href="components/bootstrap-ext/css/tables.css" />
     <script src="components/bootstrap-ext/js/tables.js"></script>
-
-To your page.
 
 Add the CSS class `.fixed-col` to the `<td>` and `<th>` you want to keep fixed and then call `$('#table-id').fixTableCols()` or simply call `$('.table-responsive > table').fixTableCols()` to look on all tables in the page. 
 
