@@ -1,15 +1,12 @@
 /*!
- * jQuery plugins for html tables.
+ * jQuery plugin for html tables.
  * v1.0.0, 2014-11-20
  *
- * Copyright (c) 2014 João Melo
- * http://jacbmelo.github.io
+ * Copyright (c) 2014 [João Melo](http://jacbmelo.github.io)
  *
- * Licensed under MIT
- * https://raw.githubusercontent.com/jacbmelo/jacbmelo.github.io/master/LICENSE.txt
+ * Licensed under [MIT](https://raw.githubusercontent.com/jacbmelo/jacbmelo.github.io/master/LICENSE.txt)
  *
- * jQuery authoring guidelines
- * http://docs.jquery.com/Plugins/Authoring
+ * [jQuery authoring guidelines](http://docs.jquery.com/Plugins/Authoring)
  */
 (function($) {
  
